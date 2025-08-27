@@ -32,10 +32,10 @@ This reference data provides a standard list of values for all Canadian province
 The Reference Data as a Service (RDaaS) is a list of codesets, classifications and concordances that are used within Statistics Canada and shared to help harmonise data for better interdepartmental data integration and analysis. This RDaaS initiative is meant to share Statistics Canada's reference data with everyone that would like to facilitate & harmonise data for analysis between Government of Canada and its data partners.
 ### Key Characteristics
 Reference data differs from master data. While both provide context for business transactions, reference data is concerned with classification and categorisation, while master data is concerned with business entities.
-Examples in Government Context
-•	Statistics Canada Standard Geographical Classification Code
-•	Lists the codes that must be used when describing and sharing data on countries, territories and geographic areas recognized by the Government of Canada
-•	Lists the categories and codes that must be used when describing and sharing data on gender
+#### Examples in Government Context:
+##### •	Statistics Canada Standard Geographical Classification Code
+##### •	Lists the codes that must be used when describing and sharing data on countries, territories and geographic areas recognized by the Government of Canada
+##### •	Lists the categories and codes that must be used when describing and sharing data on gender
 
 ## Tool Sharing Environment 
 
