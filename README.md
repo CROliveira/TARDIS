@@ -21,13 +21,29 @@ TARDIS is built around three interoperable pillars that transform fragmented gov
 
 A centralized repository of vetted, standardized datasets with universal government applicability, including date formats, province and territory naming codes, and department/agency identifiers. This "dictionary" of standards eliminates the current system of competing, dissimilar datasets across federal organizations, ensuring consistent data for parliamentary questions and ATIP requests. Integration with the FSDH environment provides immediate access to standardized data alongside analytical tools. 
 
+### 1.	Reference Data
+#### Academic Definition
+Reference data is data used to classify or categorize other data. Typically, they are static or slowly changing over time and Reference data sets are sometimes alternatively referred to as a "controlled vocabulary" or "lookup" data.
+#### Industry Definition
+Reference data is data that defines the values that are used to classify and characterize other data and serves as "What, Where, When, Who, & How" of data.
+#### Government of Canada Context
+This reference data provides a standard list of values for all Canadian provinces and territories. The list reflects Canada's 13 major political units. There are many coding systems for Canadian provinces and territories. The data standard shows the relationships among the recommended code and other common codes.
+### Statistics Canada's Reference Data as a Service (RDaaS)
+The Reference Data as a Service (RDaaS) is a list of codesets, classifications and concordances that are used within Statistics Canada and shared to help harmonise data for better interdepartmental data integration and analysis. This RDaaS initiative is meant to share Statistics Canada's reference data with everyone that would like to facilitate & harmonise data for analysis between Government of Canada and its data partners.
+### Key Characteristics
+Reference data differs from master data. While both provide context for business transactions, reference data is concerned with classification and categorisation, while master data is concerned with business entities.
+Examples in Government Context
+•	Statistics Canada Standard Geographical Classification Code
+•	Lists the codes that must be used when describing and sharing data on countries, territories and geographic areas recognized by the Government of Canada
+•	Lists the categories and codes that must be used when describing and sharing data on gender
+
 ## Tool Sharing Environment 
 
-A government-wide repository for analytical tools, applications, scripts, and methodologies accessible to all federal data analysts. This addresses the current inefficiency where solutions to common analytical challenges remain confined to individual teams or divisions despite having universal applicability. The platform enables organizations to leverage the collective expertise and scale of the federal system, with larger departments sharing capabilities that benefit smaller organizations. 
+A government-wide repository for analytical tools, applications, scripts, and methodologies accessible to all federal data analysts through the Federal Science Data Hub (FSDH). This addresses the current inefficiency where solutions to common analytical challenges remain confined to individual teams or divisions despite having universal applicability. The platform enables organizations to leverage the collective expertise and scale of the federal system, with larger departments sharing capabilities that benefit smaller organizations. 
 
 ## Collaboration Space 
 
-A shared working environment enabling real-time collaboration on multi-departmental data projects. Leveraging FSDH's built-in capacity for shared environments, analysts can work together without the current limitations of email-based data sharing, version control issues, or incompatible tools and standards. This eliminates work staggering and enables full utilization of analytical capabilities across organizational boundaries. 
+A shared working environment (GCXchange and MS Teams Channel) enabling real-time collaboration on multi-departmental data projects. Leveraging FSDH's built-in capacity for shared environments, analysts can work together without the current limitations of email-based data sharing, version control issues, or incompatible tools and standards. This eliminates work staggering and enables full utilization of analytical capabilities across organizational boundaries. 
 
 ## 1. Departmental Contribution Matrix 
 
